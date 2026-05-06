@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Healthcare Management System</title>
+        <title>Healthcare Management System </title>
         <style>
             *{
                 margin:0;
